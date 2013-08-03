@@ -1,4 +1,4 @@
 groovytools
 ===========
 
-Groovy scripts that help you throgh the day
+Groovy scripts that help you through the day
